@@ -8,3 +8,6 @@ Next to install face_recognition, type in command prompt
 
 pip install face_recognition
 Now that we have all the dependencies installed, let us start coding. We will have to create three files, one will take our dataset and extract face embedding for each face using dlib. Next, we will save these embedding in a file.
+
+
+open anaconda prompt and then run these command again then do python feed.py etc to run file...
